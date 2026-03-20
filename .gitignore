@@ -1,0 +1,10 @@
+processed_data/
+Final_ECG_Dataset.csv
+*.npy
+*.joblib
+features/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
