@@ -157,7 +157,7 @@ Evolutionary_ECG_Project/
 ├── final_binary_ecg_model.joblib  # Saved Random Forest model
 └── notebooks/
     ├── ecg_pipeline.ipynb       # Main pipeline (Phases 1–4)
-    └── cnn_phase.ipynb          # Phase 5 (in progress)
+    └── cnn_phase.ipynb          # Phase 5 
 ```
 
 ---
