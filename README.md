@@ -192,9 +192,3 @@ pip install wfdb numpy scipy pandas scikit-learn imbalanced-learn matplotlib job
 5. **The performance ceiling is a feature, not a bug.** It provides a clean, quantified justification for transitioning to deep learning.
 
 ---
-
-## References
-
-- Moody GB, Mark RG. The impact of the MIT-BIH Arrhythmia Database. *IEEE Engineering in Medicine and Biology* 20(3):45-50 (May-June 2001).
-- Pan J, Tompkins WJ. A real-time QRS detection algorithm. *IEEE Transactions on Biomedical Engineering* 32(3):230-236 (1985).
-- AAMI EC57:1998 — Testing and reporting performance results of cardiac rhythm and ST segment measurement algorithms.
