@@ -1,8 +1,15 @@
+# Raw MIT-BIH data files
+data/
+*.dat
+*.hea
+*.atr
+
+# Processed data
 processed_data/
 Final_ECG_Dataset.csv
 *.npy
 *.joblib
-features/
+*.keras
 
 # Python
 __pycache__/
