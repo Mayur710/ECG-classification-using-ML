@@ -132,7 +132,7 @@ This represents the **performance ceiling of hand-crafted features**. The model 
 
 ---
 
-## Phase 5 — 1D CNN (In Progress)
+## Phase 5 — 1D CNN 
 
 The classical pipeline proved that extracted timing and morphology features have a hard performance ceiling. The correct solution is to bypass feature extraction entirely and let a Convolutional Neural Network learn its own features directly from raw heartbeat waveforms.
 
@@ -142,7 +142,7 @@ The classical pipeline proved that extracted timing and morphology features have
 - MaxPooling for translation invariance
 - Dense layers for final classification
 
-**Expected performance:** 90%+ accuracy based on published literature using identical data.
+ 90%+ accuracy based on published literature using identical data.
 
 ---
 
