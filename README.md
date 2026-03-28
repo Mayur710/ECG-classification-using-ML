@@ -37,7 +37,7 @@ Phase 3: Genetic Algorithm Feature Selection ← FAILED (documented below)
         ↓
 Phase 4: Classical ML (MLP → Random Forest Binary Classifier)
         ↓
-Phase 5: Deep Learning (1D CNN on raw waveforms) ← IN PROGRESS
+Phase 5: Deep Learning (1D CNN on raw waveforms) 
 ```
 
 ---
